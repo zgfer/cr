@@ -3,4 +3,8 @@
 http://61.58.60.230:9319/live/308.m3u8
 #EXTINF:-1 group-title="欢乐频道",台视
 http://61.58.60.230:9319/live/309.m3u8
+#EXTINF:-1 group-title="欢乐频道",民视
+http://61.58.60.230:9319/live/308.m3u8
+#EXTINF:-1 group-title="欢乐频道",台视
+http://61.58.60.230:9319/live/309.m3u8
 
