@@ -1,8 +1,6 @@
-#EXTINF:-1 group-title="稳定频道",民视
-rtmp://f13h.mine.nu/sat/tv051
-#EXTINF:-1 group-title="稳定频道",台视
-rtmp://f13h.mine.nu/sat/tv071
-#EXTINF:-1 group-title="稳定频道",中视
-rtmp://f13h.mine.nu/sat/tv091
-#EXTINF:-1 group-title="稳定频道",华视
-rtmp://f13h.mine.nu/sat/tv111
+#EXTM3U
+#EXTINF:-1 group-title="欢乐频道",民视
+http://61.58.60.230:9319/live/308.m3u8
+#EXTINF:-1 group-title="欢乐频道",台视
+http://61.58.60.230:9319/live/309.m3u8
+
